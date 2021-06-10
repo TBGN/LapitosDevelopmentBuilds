@@ -1,0 +1,205 @@
+
+#General Config Section
+[general]
+	#The Client ID of the Discord App to use
+	clientID = 844734975471386664
+	#Enable/Disable the mod
+	enabled = true
+	#Enable/Disable debugging mode. WARNING: MAY CAUSE LOG SPAM!
+	debugging = false
+	#Enable/Disable the in game config screen
+	configScreen = true
+	#Display the Icon and Pack Name in place of LargeImage from compatible launchers. DOES NOT WORK WITH CUSTOM APPS! ONLY THE DEFAULT ONE!
+	launcherIntegration = false
+	#Enable/Disabled in-game notifications about new releases
+	updater = false
+	#Internal Version Number. NO TOUCHY!
+	version = 9
+
+#The Game Loading event
+[init]
+	#Enable/Disable the Game Loading Event
+	enabled = true
+	#The first line of text under the app name
+	description = "A TBGN Modpack"
+	#The second line of text under the app name
+	state = "Initializing"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = "logo"
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "Lapitos Galacticraft"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = "tbgn"
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+
+	#The buttons to display on Discord
+	[[init.buttons]]
+		label = "Download Modpack"
+		url = "https://www.curseforge.com/minecraft/modpacks/lapitos-galacticraft"
+
+	[[init.buttons]]
+		label = "TBGN Discord"
+		url = "https://discord.gg/7wNG7XynQN"
+
+#The Main Menu event
+[main_menu]
+	#Enable/Disable the Main Menu Event
+	enabled = true
+	#The first line of text under the app name
+	description = "A TBGN Modpack"
+	#The seconds line of text under the app name
+	state = "In Main Menu"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = "logo"
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "Lapitos Galacticraft"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = "tbgn"
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+
+	#The buttons to display on Discord
+	[[main_menu.buttons]]
+		label = "Download Modpack"
+		url = "https://www.curseforge.com/minecraft/modpacks/lapitos-galacticraft"
+
+	[[main_menu.buttons]]
+		label = "TBGN Discord"
+		url = "https://discord.gg/7wNG7XynQN"
+
+#The Server List event
+[server_list]
+	#Enable/Disable the Server List Event
+	enabled = true
+	#The first line of text under the app name
+	description = "A TBGN Modpack"
+	#The second line of text under the app name
+	state = "In Server List Menu"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = "logo"
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "Lapitos Galacticraft"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = "tbgn"
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+
+	#The buttons to display on Discord
+	[[server_list.buttons]]
+		label = "Download Modpack"
+		url = "https://www.curseforge.com/minecraft/modpacks/lapitos-galacticraft"
+
+	[[server_list.buttons]]
+		label = "TBGN Discord"
+		url = "https://discord.gg/7wNG7XynQN"
+
+#The Join Game Event
+[join_game]
+	#Enable/Disable the Join Game Event
+	enabled = true
+	#The first line of text under the app name
+	description = "A TBGN Modpack"
+	#The second line of text under the app name
+	state = "Joing World"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = "logo"
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "Lapitos Galacticraft"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = "tbgn"
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+
+	#The buttons to display on Discord
+	[[join_game.buttons]]
+		label = "Download Modpack"
+		url = "https://www.curseforge.com/minecraft/modpacks/lapitos-galacticraft"
+
+	[[join_game.buttons]]
+		label = "TBGN Discord"
+		url = "https://discord.gg/7wNG7XynQN"
+
+#The Single Player Event
+[single_player]
+	#Enable/Disable the Single Player Event
+	enabled = true
+	#The first line of text under the app name
+	description = "A TBGN Modpack"
+	#The second line of text under the app name
+	state = "Playing Singleplayer"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = "logo"
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "Location: %world% (%biome%)"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = "tbgn"
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+
+	#The buttons to display on Discord
+	[[single_player.buttons]]
+		label = "Download Modpack"
+		url = "https://www.curseforge.com/minecraft/modpacks/lapitos-galacticraft"
+
+	[[single_player.buttons]]
+		label = "TBGN Discord"
+		url = "https://discord.gg/7wNG7XynQN"
+
+#The Multi Player Event
+[multi_player]
+	#Enable/Disable the Multi Player Event
+	enabled = true
+	#The first line of text under the app name
+	description = "A TBGN Modpack"
+	#The second line of text under the app name
+	state = "On %servername% (%ip%)"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = "logo"
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "%players% / %maxplayers% players online"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = "tbgn"
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+
+	#The buttons to display on Discord
+	[[multi_player.buttons]]
+		label = "Download Modpack"
+		url = "https://www.curseforge.com/minecraft/modpacks/lapitos-galacticraft"
+
+	[[multi_player.buttons]]
+		label = "TBGN Discord"
+		url = "https://discord.gg/7wNG7XynQN"
+
+#Fallback event for disabled events
+[generic]
+	#The first line of text under the app name
+	description = "A TBGN Modpack"
+	#The second line of text under the app name
+	state = "Attempting Space Flight"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = "logo"
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "Lapitos Galacticraft"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = "tbgn"
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+
+	#The buttons to display on Discord
+	[[generic.buttons]]
+		label = "Download Modpack"
+		url = "https://www.curseforge.com/minecraft/modpacks/lapitos-galacticraft"
+
+	[[generic.buttons]]
+		label = "TBGN Discord"
+		url = "https://discord.gg/7wNG7XynQN"
+
+#World/Dimension Image Overrides
+[world_images]
+	#Enabled/Disable custom images for Worlds/Biomes
+	enabled = false
+	#The Worlds/Biomes to override
+	worlds = []
+

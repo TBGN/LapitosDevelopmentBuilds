@@ -1,0 +1,15 @@
+
+.ReAuth.cfg
+BotaniaVars.dat
+.mixin.out/
+.curseclient
+*.errored
+config/splash.properties
+logs/
+options.txt
+saves/
+crafttweaker.log
+*.dll
+resourcepacks/
+customnpcs/
+minecraftinstance.json
