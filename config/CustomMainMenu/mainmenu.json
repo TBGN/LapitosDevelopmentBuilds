@@ -247,6 +247,7 @@
             "alignment" : "top_center",
             "texts" : "file:modpack:splash.txt"
         },
+        
         "panorama":
         {
             "images" : "modpack:panorama/panorama_%c.png",

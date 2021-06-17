@@ -29,8 +29,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-06-09T22:05:14.3639003Z",
-  "playedCount": 1,
+  "lastPlayed": "2021-06-13T15:43:26.1916759Z",
+  "playedCount": 7,
   "manifest": {
     "minecraft": {
       "version": "1.12.2",
@@ -970,1481 +970,10 @@
   "gameTypeID": 432,
   "installPath": "C:\\Users\\rom\\curseforge\\minecraft\\Instances\\LapitosDevelopmentBuilds\\",
   "name": "LapitosDevelopmentBuilds",
-  "cachedScans": [
-    {
-      "folderName": "AsmodeusCore-1.12.2-0.0.25.jar",
-      "fingerprint": 1665756608,
-      "fileDateHash": 938613159,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1665756608
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.3066025Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:49.8920267Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2148502Z",
-      "fileCount": 1,
-      "fileSize": 4249038
-    },
-    {
-      "folderName": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
-      "fingerprint": 2940918666,
-      "fileDateHash": 2809573842,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2940918666
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.6706081Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:54.5811117Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2148502Z",
-      "fileCount": 1,
-      "fileSize": 704330
-    },
-    {
-      "folderName": "IC2CExtras-1.4.7.jar",
-      "fingerprint": 968816287,
-      "fileDateHash": 2632841770,
-      "sectionID": 8,
-      "individualFingerprints": [
-        968816287
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.1916025Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:42.0898026Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2148502Z",
-      "fileCount": 1,
-      "fileSize": 2028438
-    },
-    {
-      "folderName": "CustomMainMenu-MC1.12.2-2.0.9.1.jar",
-      "fingerprint": 3526146934,
-      "fileDateHash": 4275510346,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3526146934
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.7606058Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:46.1625505Z",
-      "queryTimestamp": "2021-06-10T12:50:55.215851Z",
-      "fileCount": 1,
-      "fileSize": 91121
-    },
-    {
-      "folderName": "JustEnoughReactors-1.12.2-1.1.3.61.jar",
-      "fingerprint": 2223690729,
-      "fileDateHash": 2690730473,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2223690729
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.4166055Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:58.0794117Z",
-      "queryTimestamp": "2021-06-10T12:50:55.215851Z",
-      "fileCount": 1,
-      "fileSize": 53675
-    },
-    {
-      "folderName": "OpenBlocks-1.12.2-1.8.1.jar",
-      "fingerprint": 778518540,
-      "fileDateHash": 138134779,
-      "sectionID": 8,
-      "individualFingerprints": [
-        778518540
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.6776042Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:39.3596495Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2168526Z",
-      "fileCount": 1,
-      "fileSize": 3217616
-    },
-    {
-      "folderName": "RandomThings-MC1.12.2-4.2.7.4.jar",
-      "fingerprint": 3215073064,
-      "fileDateHash": 2006499666,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3215073064
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.9666038Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:37.0588449Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2168526Z",
-      "fileCount": 1,
-      "fileSize": 3292861
-    },
-    {
-      "folderName": "BloodMagic-1.12.2-2.4.3-105.jar",
-      "fingerprint": 4036556600,
-      "fileDateHash": 3612059846,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4036556600
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.4576066Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:57.2772685Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2168526Z",
-      "fileCount": 1,
-      "fileSize": 7208594
-    },
-    {
-      "folderName": "Chunk Pregenerator V1.12-2.3.jar",
-      "fingerprint": 2660719319,
-      "fileDateHash": 855934647,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2660719319
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.648603Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:16.8790396Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2178507Z",
-      "fileCount": 1,
-      "fileSize": 514799
-    },
-    {
-      "folderName": "LagGoggles-1.12.2-5.8-132.jar",
-      "fingerprint": 58555158,
-      "fileDateHash": 3980487549,
-      "sectionID": 8,
-      "individualFingerprints": [
-        58555158
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.4236071Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:04.1541564Z",
-      "queryTimestamp": "2021-06-10T12:50:55.218849Z",
-      "fileCount": 1,
-      "fileSize": 182688
-    },
-    {
-      "folderName": "mcjtylib-1.12-3.5.4.jar",
-      "fingerprint": 285741512,
-      "fileDateHash": 994598038,
-      "sectionID": 8,
-      "individualFingerprints": [
-        285741512
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.493606Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:49.7459626Z",
-      "queryTimestamp": "2021-06-10T12:50:55.218849Z",
-      "fileCount": 1,
-      "fileSize": 544856
-    },
-    {
-      "folderName": "ForgeMultipart-1.12.2-2.6.2.83-universal.jar",
-      "fingerprint": 3090990458,
-      "fileDateHash": 156329713,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3090990458
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.9836102Z",
-      "lastWriteTimeUtc": "2021-06-09T21:38:00.5046542Z",
-      "queryTimestamp": "2021-06-10T12:50:55.218849Z",
-      "fileCount": 1,
-      "fileSize": 1304958
-    },
-    {
-      "folderName": "ironchest-1.12.2-7.0.72.847.jar",
-      "fingerprint": 3272096001,
-      "fileDateHash": 32047471,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3272096001
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.3436034Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:14.7473263Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2198483Z",
-      "fileCount": 1,
-      "fileSize": 956692
-    },
-    {
-      "folderName": "Coordless-0.1.0_BETA.jar",
-      "fingerprint": 4135196648,
-      "fileDateHash": 4215628185,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4135196648
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.715604Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:20.8052945Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2198483Z",
-      "fileCount": 1,
-      "fileSize": 888568
-    },
-    {
-      "folderName": "iChunUtil-1.12.2-7.2.2.jar",
-      "fingerprint": 1712392953,
-      "fileDateHash": 770259780,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1712392953
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.278603Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:03.012847Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2198483Z",
-      "fileCount": 1,
-      "fileSize": 581963
-    },
-    {
-      "folderName": "ProjectRed-1.12.2-4.9.4.120-integration.jar",
-      "fingerprint": 1782350993,
-      "fileDateHash": 2430694064,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1782350993
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.9346029Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:58.4234552Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2198483Z",
-      "fileCount": 1,
-      "fileSize": 3923751
-    },
-    {
-      "folderName": "engineers_doors-1.12.2-0.9.1.jar",
-      "fingerprint": 3484625461,
-      "fileDateHash": 1104138437,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3484625461
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.8416052Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:04.9718885Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2208484Z",
-      "fileCount": 1,
-      "fileSize": 135429
-    },
-    {
-      "folderName": "BetterFps-1.4.8.jar",
-      "fingerprint": 3051920250,
-      "fileDateHash": 2271314260,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3051920250
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.4156048Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:24.6271892Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2208484Z",
-      "fileCount": 1,
-      "fileSize": 155196
-    },
-    {
-      "folderName": "GalaxySpace-1.12.2-2.0.16.jar",
-      "fingerprint": 3544262090,
-      "fileDateHash": 1358202126,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3544262090
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.1136046Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:10.5094656Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2208484Z",
-      "fileCount": 1,
-      "fileSize": 9485161
-    },
-    {
-      "folderName": "Mantle-1.12-1.3.3.55.jar",
-      "fingerprint": 2810798110,
-      "fileDateHash": 981869040,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2810798110
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.483607Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:50.5598042Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2208484Z",
-      "fileCount": 1,
-      "fileSize": 843486
-    },
-    {
-      "folderName": "plustic-8.0.3.jar",
-      "fingerprint": 954781557,
-      "fileDateHash": 2087100926,
-      "sectionID": 8,
-      "individualFingerprints": [
-        954781557
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.8626066Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:04.3172814Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2208484Z",
-      "fileCount": 1,
-      "fileSize": 560648
-    },
-    {
-      "folderName": "AE2WTLib-1.12.2-1.0.34.jar",
-      "fingerprint": 4147363441,
-      "fileDateHash": 1885208041,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4147363441
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.2536065Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:44.4060569Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2208484Z",
-      "fileCount": 1,
-      "fileSize": 243622
-    },
-    {
-      "folderName": "gravisuit-1.0.8.2.jar",
-      "fingerprint": 1555516514,
-      "fileDateHash": 4136674742,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1555516514
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.1746056Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:59.0144841Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2218485Z",
-      "fileCount": 1,
-      "fileSize": 172741
-    },
-    {
-      "folderName": "alib-1.0.12.jar",
-      "fingerprint": 3390218266,
-      "fileDateHash": 1536226379,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3390218266
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.2666056Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:32.9657708Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2218485Z",
-      "fileCount": 1,
-      "fileSize": 75827
-    },
-    {
-      "folderName": "ImmersiveEngineering-0.12-98.jar",
-      "fingerprint": 3177475693,
-      "fileDateHash": 2725507448,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3177475693
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.2876057Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:43.2538566Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2218485Z",
-      "fileCount": 1,
-      "fileSize": 6360959
-    },
-    {
-      "folderName": "Patchouli-1.0-21.jar",
-      "fingerprint": 3376354138,
-      "fileDateHash": 3537670758,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3376354138
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.8426035Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:27.60889Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2218485Z",
-      "fileCount": 1,
-      "fileSize": 470042
-    },
-    {
-      "folderName": "Baubles-1.12-1.5.2.jar",
-      "fingerprint": 4247051032,
-      "fileDateHash": 4253353451,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4247051032
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.3996052Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:11.7250078Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2218485Z",
-      "fileCount": 1,
-      "fileSize": 108450
-    },
-    {
-      "folderName": "MekanismTools-1.12.2-9.7.9.380.jar",
-      "fingerprint": 1051134857,
-      "fileDateHash": 833926251,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1051134857
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.551605Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:47.1576187Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2218485Z",
-      "fileCount": 1,
-      "fileSize": 162121
-    },
-    {
-      "folderName": "Numina-1.12.2-1.0.38.jar",
-      "fingerprint": 3008756587,
-      "fileDateHash": 3530803912,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3008756587
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.6476047Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:13.9414693Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2228505Z",
-      "fileCount": 1,
-      "fileSize": 1013581
-    },
-    {
-      "folderName": "NuclearCraft-2.18x-1.12.2.jar",
-      "fingerprint": 584491896,
-      "fileDateHash": 3053044039,
-      "sectionID": 8,
-      "individualFingerprints": [
-        584491896
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.610605Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:56.1211958Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2228505Z",
-      "fileCount": 1,
-      "fileSize": 6909086
-    },
-    {
-      "folderName": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
-      "fingerprint": 928719472,
-      "fileDateHash": 237968962,
-      "sectionID": 8,
-      "individualFingerprints": [
-        928719472
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.6936039Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:59.6660899Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2228505Z",
-      "fileCount": 1,
-      "fileSize": 505987
-    },
-    {
-      "folderName": "actuallycomputers-2.2.0.jar",
-      "fingerprint": 3691297459,
-      "fileDateHash": 1170701492,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3691297459
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.1456054Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:00.8595813Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2228505Z",
-      "fileCount": 1,
-      "fileSize": 19323
-    },
-    {
-      "folderName": "jei_1.12.2-4.16.1.301.jar",
-      "fingerprint": 3089143260,
-      "fileDateHash": 696768896,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3089143260
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.3666059Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:11.2483797Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2238493Z",
-      "fileCount": 1,
-      "fileSize": 653211
-    },
-    {
-      "folderName": "Pam's HarvestCraft 1.12.2zg.jar",
-      "fingerprint": 1735713960,
-      "fileDateHash": 3417915438,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1735713960
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.8156031Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:17.7774801Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2238493Z",
-      "fileCount": 1,
-      "fileSize": 4912890
-    },
-    {
-      "folderName": "ProjectRed-1.12.2-4.9.4.120-Base.jar",
-      "fingerprint": 2117407503,
-      "fileDateHash": 2985190629,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2117407503
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.9186089Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:59.7562034Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2238493Z",
-      "fileCount": 1,
-      "fileSize": 2036136
-    },
-    {
-      "folderName": "OpenComputers-MC1.12.2-1.7.5.192.jar",
-      "fingerprint": 3597605255,
-      "fileDateHash": 1579245745,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3597605255
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.697606Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:31.362745Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2238493Z",
-      "fileCount": 1,
-      "fileSize": 15643758
-    },
-    {
-      "folderName": "JustEnoughEnergistics-1.12.2-1.0.7.jar",
-      "fingerprint": 1431953988,
-      "fileDateHash": 2944056854,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1431953988
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.4156031Z",
-      "lastWriteTimeUtc": "2021-06-09T21:34:59.3865991Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2238493Z",
-      "fileCount": 1,
-      "fileSize": 22712
-    },
-    {
-      "folderName": "Chameleon-1.12-4.1.3.jar",
-      "fingerprint": 2760206313,
-      "fileDateHash": 3292507259,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2760206313
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.5986052Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:43.1764042Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2238493Z",
-      "fileCount": 1,
-      "fileSize": 96859
-    },
-    {
-      "folderName": "Forgelin-1.8.4.jar",
-      "fingerprint": 387064965,
-      "fileDateHash": 2759525633,
-      "sectionID": 8,
-      "individualFingerprints": [
-        387064965
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.9386055Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:14.1906816Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2248499Z",
-      "fileCount": 1,
-      "fileSize": 6278399
-    },
-    {
-      "folderName": "OpenModsLib-1.12.2-0.12.2.jar",
-      "fingerprint": 1596478407,
-      "fileDateHash": 966862754,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1596478407
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.7726027Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:36.6078748Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2248499Z",
-      "fileCount": 1,
-      "fileSize": 2639587
-    },
-    {
-      "folderName": "MicdoodleCore-1.12.2-4.0.2.281.jar",
-      "fingerprint": 1124923812,
-      "fileDateHash": 621758212,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1124923812
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.5586046Z",
-      "lastWriteTimeUtc": "2021-06-09T21:34:47.6930421Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2248499Z",
-      "fileCount": 1,
-      "fileSize": 53300
-    },
-    {
-      "folderName": "forestry_1.12.2-5.8.2.422.jar",
-      "fingerprint": 1755255769,
-      "fileDateHash": 3979545311,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1755255769
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.8956046Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:11.0968007Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2248499Z",
-      "fileCount": 1,
-      "fileSize": 5298295
-    },
-    {
-      "folderName": "BuildingGadgets-2.8.4.jar",
-      "fingerprint": 1053424356,
-      "fileDateHash": 3867480730,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1053424356
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.5886056Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:20.7061587Z",
-      "queryTimestamp": "2021-06-10T12:50:55.225848Z",
-      "fileCount": 1,
-      "fileSize": 719492
-    },
-    {
-      "folderName": "InventoryTweaks-1.64+dev.151.jar",
-      "fingerprint": 42535972,
-      "fileDateHash": 286535293,
-      "sectionID": 8,
-      "individualFingerprints": [
-        42535972
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.3356041Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:51.8522797Z",
-      "queryTimestamp": "2021-06-10T12:50:55.225848Z",
-      "fileCount": 1,
-      "fileSize": 286144
-    },
-    {
-      "folderName": "malisisdoors-1.12.2-7.3.0.jar",
-      "fingerprint": 2375017557,
-      "fileDateHash": 1849020334,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2375017557
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.470607Z",
-      "lastWriteTimeUtc": "2021-06-09T22:03:52.8261984Z",
-      "queryTimestamp": "2021-06-10T12:50:55.225848Z",
-      "fileCount": 1,
-      "fileSize": 1741669
-    },
-    {
-      "folderName": "ItemBlacklist-1.4.3.jar",
-      "fingerprint": 1491684432,
-      "fileDateHash": 2571333861,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1491684432
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.3546059Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:53.6940111Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2268477Z",
-      "fileCount": 1,
-      "fileSize": 46403
-    },
-    {
-      "folderName": "JAOPCA-1.12.2-2.2.8.103.jar",
-      "fingerprint": 1126104228,
-      "fileDateHash": 3159278524,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1126104228
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.3546059Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:03.7303455Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2268477Z",
-      "fileCount": 1,
-      "fileSize": 457539
-    },
-    {
-      "folderName": "malisisadvert-1.12.2-6.1.0.jar",
-      "fingerprint": 265097378,
-      "fileDateHash": 2515555150,
-      "sectionID": 8,
-      "individualFingerprints": [
-        265097378
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.4466035Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:02.410578Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2268477Z",
-      "fileCount": 1,
-      "fileSize": 882177
-    },
-    {
-      "folderName": "journeymap-1.12.2-5.7.1.jar",
-      "fingerprint": 1076064603,
-      "fileDateHash": 1760743555,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1076064603
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.3786049Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:57.6239026Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2268477Z",
-      "fileCount": 1,
-      "fileSize": 6990968
-    },
-    {
-      "folderName": "CraftTweaker2-1.12-4.1.20.586.jar",
-      "fingerprint": 90565211,
-      "fileDateHash": 3323020370,
-      "sectionID": 8,
-      "individualFingerprints": [
-        90565211
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.7356078Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:44.8284058Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2278479Z",
-      "fileCount": 1,
-      "fileSize": 1438517
-    },
-    {
-      "folderName": "p455w0rdslib-1.12.2-2.3.161.jar",
-      "fingerprint": 4127400724,
-      "fileDateHash": 4083723244,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4127400724
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.8076037Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:00.2735188Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2278479Z",
-      "fileCount": 1,
-      "fileSize": 328793
-    },
-    {
-      "folderName": "extrautils2-1.12-1.9.9.jar",
-      "fingerprint": 2050253455,
-      "fileDateHash": 39650453,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2050253455
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.8506063Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:59.5608451Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2278479Z",
-      "fileCount": 1,
-      "fileSize": 3226408
-    },
-    {
-      "folderName": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
-      "fingerprint": 3315557568,
-      "fileDateHash": 66760388,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3315557568
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.6836058Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:50.7433928Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2288479Z",
-      "fileCount": 1,
-      "fileSize": 848187
-    },
-    {
-      "folderName": "advancedsolars-1.0.6.jar",
-      "fingerprint": 3408825056,
-      "fileDateHash": 1590840889,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3408825056
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.242607Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:01.5527413Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2288479Z",
-      "fileCount": 1,
-      "fileSize": 92038
-    },
-    {
-      "folderName": "Galacticraft-Planets-1.12.2-4.0.2.281.jar",
-      "fingerprint": 2179098033,
-      "fileDateHash": 3443711072,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2179098033
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.9966032Z",
-      "lastWriteTimeUtc": "2021-06-09T21:34:47.6150421Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2288479Z",
-      "fileCount": 1,
-      "fileSize": 3987531
-    },
-    {
-      "folderName": "GalacticraftCore-1.12.2-4.0.2.281.jar",
-      "fingerprint": 2017993775,
-      "fileDateHash": 1957148208,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2017993775
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.0276033Z",
-      "lastWriteTimeUtc": "2021-06-09T21:34:47.6920413Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2288479Z",
-      "fileCount": 1,
-      "fileSize": 10631329
-    },
-    {
-      "folderName": "Botania r1.10-363.jar",
-      "fingerprint": 3763127432,
-      "fileDateHash": 3650398707,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3763127432
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.5086101Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:31.2048563Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2288479Z",
-      "fileCount": 1,
-      "fileSize": 13814617
-    },
-    {
-      "folderName": "IC2Classic 1.12-1.5.5.1.jar",
-      "fingerprint": 1885835764,
-      "fileDateHash": 747944279,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1885835764
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.2056049Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:45.7058149Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2298493Z",
-      "fileCount": 1,
-      "fileSize": 6204617
-    },
-    {
-      "folderName": "BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar",
-      "fingerprint": 3073248050,
-      "fileDateHash": 2700088134,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3073248050
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.4076047Z",
-      "lastWriteTimeUtc": "2021-06-09T21:34:59.8926155Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2298493Z",
-      "fileCount": 1,
-      "fileSize": 75709
-    },
-    {
-      "folderName": "ChickenChunks-1.12.2-2.4.2.74-universal.jar",
-      "fingerprint": 3338398801,
-      "fileDateHash": 2630451338,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3338398801
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.6096039Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:45.6010416Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2298493Z",
-      "fileCount": 1,
-      "fileSize": 134367
-    },
-    {
-      "folderName": "BiblioCraft[v2.4.5][MC1.12.2].jar",
-      "fingerprint": 1344933848,
-      "fileDateHash": 2225715764,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1344933848
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.4236059Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:34.1701044Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2298493Z",
-      "fileCount": 1,
-      "fileSize": 5122856
-    },
-    {
-      "folderName": "ExtremeReactors-1.12.2-0.4.5.67.jar",
-      "fingerprint": 2732073367,
-      "fileDateHash": 675237456,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2732073367
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.8736055Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:18.9147555Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2298493Z",
-      "fileCount": 1,
-      "fileSize": 1110113
-    },
-    {
-      "folderName": "badwithernocookiereloaded-1.12.2-3.4.18.jar",
-      "fingerprint": 4093488300,
-      "fileDateHash": 3504763979,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4093488300
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.3336051Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:04.5421536Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2308478Z",
-      "fileCount": 1,
-      "fileSize": 10402
-    },
-    {
-      "folderName": "Guide-API-1.12-2.1.8-63.jar",
-      "fingerprint": 1899009469,
-      "fileDateHash": 1327581174,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1899009469
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.1836038Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:45.0072617Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2308478Z",
-      "fileCount": 1,
-      "fileSize": 169528
-    },
-    {
-      "folderName": "GalacticTweaks-1.6.0.jar",
-      "fingerprint": 1541419447,
-      "fileDateHash": 758251200,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1541419447
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.1026054Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:53.2834969Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2308478Z",
-      "fileCount": 1,
-      "fileSize": 240227
-    },
-    {
-      "folderName": "ICBM-classic-1.12.2-3.3.0b63.jar",
-      "fingerprint": 722712634,
-      "fileDateHash": 614745266,
-      "sectionID": 8,
-      "individualFingerprints": [
-        722712634
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.2426057Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:50.4146486Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2308478Z",
-      "fileCount": 1,
-      "fileSize": 7013799
-    },
-    {
-      "folderName": "openscreens-1.12.2-1.0.1.jar",
-      "fingerprint": 3857146311,
-      "fileDateHash": 4034407918,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3857146311
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.7996063Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:33.9669082Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2318497Z",
-      "fileCount": 1,
-      "fileSize": 691549
-    },
-    {
-      "folderName": "appliedenergistics2-rv6-stable-7.jar",
-      "fingerprint": 3112664858,
-      "fileDateHash": 3871967400,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3112664858
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.2736075Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:32.4587767Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2318497Z",
-      "fileCount": 1,
-      "fileSize": 4062630
-    },
-    {
-      "folderName": "ocsensors-1.0.4-b23.jar",
-      "fingerprint": 993017787,
-      "fileDateHash": 1634331168,
-      "sectionID": 8,
-      "individualFingerprints": [
-        993017787
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.6576053Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:07.7905309Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2318497Z",
-      "fileCount": 1,
-      "fileSize": 81332
-    },
-    {
-      "folderName": "malisiscore-1.12.2-6.5.1.jar",
-      "fingerprint": 578924288,
-      "fileDateHash": 3020853961,
-      "sectionID": 8,
-      "individualFingerprints": [
-        578924288
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.4566053Z",
-      "lastWriteTimeUtc": "2021-06-09T21:38:01.7315922Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2328492Z",
-      "fileCount": 1,
-      "fileSize": 1939783
-    },
-    {
-      "folderName": "phosphor-1.12.2-0.2.6+build50-universal.jar",
-      "fingerprint": 229203232,
-      "fileDateHash": 376859645,
-      "sectionID": 8,
-      "individualFingerprints": [
-        229203232
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.852604Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:23.9830079Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2328492Z",
-      "fileCount": 1,
-      "fileSize": 1082311
-    },
-    {
-      "folderName": "MouseTweaks-2.10-mc1.12.2.jar",
-      "fingerprint": 533666569,
-      "fileDateHash": 319976385,
-      "sectionID": 8,
-      "individualFingerprints": [
-        533666569
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.5936035Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:50.9147116Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2328492Z",
-      "fileCount": 1,
-      "fileSize": 75170
-    },
-    {
-      "folderName": "customstuff4-1.12.2-0.5.3.jar",
-      "fingerprint": 2124961907,
-      "fileDateHash": 909683447,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2124961907
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.8216029Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:47.730493Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2328492Z",
-      "fileCount": 1,
-      "fileSize": 469935
-    },
-    {
-      "folderName": "ActuallyAdditions-1.12.2-r151-2.jar",
-      "fingerprint": 1671041874,
-      "fileDateHash": 1404588196,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1671041874
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.0276039Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:19.1244619Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2338485Z",
-      "fileCount": 1,
-      "fileSize": 2703860
-    },
-    {
-      "folderName": "ompd-1.12.2-3.1.0-61.jar",
-      "fingerprint": 4143378710,
-      "fileDateHash": 390653893,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4143378710
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.6716062Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:00.7335465Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2338485Z",
-      "fileCount": 1,
-      "fileSize": 104301
-    },
-    {
-      "folderName": "corpse-1.12.2-1.0.8.jar",
-      "fingerprint": 3671212029,
-      "fileDateHash": 2194987403,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3671212029
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.7276037Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:23.0549171Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2338485Z",
-      "fileCount": 1,
-      "fileSize": 67966
-    },
-    {
-      "folderName": "EnderStorage-1.12.2-2.4.6.137-universal.jar",
-      "fingerprint": 3887579715,
-      "fileDateHash": 628562260,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3887579715
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.8306025Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:51.3996379Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2338485Z",
-      "fileCount": 1,
-      "fileSize": 223250
-    },
-    {
-      "folderName": "MrTJPCore-1.12.2-2.1.4.43-universal.jar",
-      "fingerprint": 4068050300,
-      "fileDateHash": 668450704,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4068050300
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.6016064Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:34.7757614Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2348495Z",
-      "fileCount": 1,
-      "fileSize": 803400
-    },
-    {
-      "folderName": "pneumaticcraft-repressurized-1.12.2-0.11.15-398.jar",
-      "fingerprint": 40853236,
-      "fileDateHash": 1362309846,
-      "sectionID": 8,
-      "individualFingerprints": [
-        40853236
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.8706031Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:03.549154Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2348495Z",
-      "fileCount": 1,
-      "fileSize": 9534851
-    },
-    {
-      "folderName": "Chisel-MC1.12.2-1.0.2.45.jar",
-      "fingerprint": 2429064344,
-      "fileDateHash": 456311219,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2429064344
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.6186065Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:39.4541681Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2348495Z",
-      "fileCount": 1,
-      "fileSize": 4755282
-    },
-    {
-      "folderName": "noRecipeBook_v1.2.2formc1.12.2.jar",
-      "fingerprint": 1336617140,
-      "fileDateHash": 2134841355,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1336617140
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.610605Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:48.9834323Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2348495Z",
-      "fileCount": 1,
-      "fileSize": 4053
-    },
-    {
-      "folderName": "CTM-MC1.12.2-1.0.2.31.jar",
-      "fingerprint": 1477774991,
-      "fileDateHash": 275768777,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1477774991
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.7536054Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:43.8078673Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2358481Z",
-      "fileCount": 1,
-      "fileSize": 199045
-    },
-    {
-      "folderName": "randompatches-1.12.2-1.22.1.2.jar",
-      "fingerprint": 3761400880,
-      "fileDateHash": 2185744334,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3761400880
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.9586048Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:28.7331527Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2358481Z",
-      "fileCount": 1,
-      "fileSize": 293013
-    },
-    {
-      "folderName": "Clumps-3.1.2.jar",
-      "fingerprint": 1290884162,
-      "fileDateHash": 3436055071,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1290884162
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.6706081Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:52.0836333Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2358481Z",
-      "fileCount": 1,
-      "fileSize": 13792
-    },
-    {
-      "folderName": "ActuallyBaubles-1.12-1.1.jar",
-      "fingerprint": 4219803846,
-      "fileDateHash": 3670822994,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4219803846
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.0526064Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:52.6597386Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2358481Z",
-      "fileCount": 1,
-      "fileSize": 11604
-    },
-    {
-      "folderName": "omlib-1.12.2-3.1.4-249.jar",
-      "fingerprint": 3161203394,
-      "fileDateHash": 24739712,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3161203394
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.6646039Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:01.4476607Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2358481Z",
-      "fileCount": 1,
-      "fileSize": 213641
-    },
-    {
-      "folderName": "industrialforegoing-1.12.2-1.12.13-237.jar",
-      "fingerprint": 4071690926,
-      "fileDateHash": 158967889,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4071690926
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.3226038Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:47.1364693Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2368477Z",
-      "fileCount": 1,
-      "fileSize": 1603134
-    },
-    {
-      "folderName": "ModularPowersuits-1.12.2-1.0.46.jar",
-      "fingerprint": 1198111134,
-      "fileDateHash": 3963350695,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1198111134
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.5756046Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:16.1943721Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2368477Z",
-      "fileCount": 1,
-      "fileSize": 2560485
-    },
-    {
-      "folderName": "conarm-1.12.2-1.2.5.9.jar",
-      "fingerprint": 1410691733,
-      "fileDateHash": 3808257762,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1410691733
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.7046043Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:48.5700574Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2368477Z",
-      "fileCount": 1,
-      "fileSize": 894608
-    },
-    {
-      "folderName": "Mekanism-1.12.2-9.7.9.380.jar",
-      "fingerprint": 4022996013,
-      "fileDateHash": 275962212,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4022996013
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.5026041Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:39.3276757Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2368477Z",
-      "fileCount": 1,
-      "fileSize": 7935575
-    },
-    {
-      "folderName": "CustomNPCs_1.12.2-(05Jul20).jar",
-      "fingerprint": 385208610,
-      "fileDateHash": 2332140477,
-      "sectionID": 8,
-      "individualFingerprints": [
-        385208610
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.7686077Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:08.8830936Z",
-      "queryTimestamp": "2021-06-10T12:50:55.237848Z",
-      "fileCount": 1,
-      "fileSize": 9911871
-    },
-    {
-      "folderName": "foamfix-0.10.10-1.12.2.jar",
-      "fingerprint": 3326311587,
-      "fileDateHash": 3396493066,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3326311587
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.886606Z",
-      "lastWriteTimeUtc": "2021-06-09T21:38:08.4587439Z",
-      "queryTimestamp": "2021-06-10T12:50:55.237848Z",
-      "fileCount": 1,
-      "fileSize": 201683
-    },
-    {
-      "folderName": "libnine-1.12.2-1.2.0.jar",
-      "fingerprint": 3665289799,
-      "fileDateHash": 3684184221,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3665289799
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.4376051Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:25.3313262Z",
-      "queryTimestamp": "2021-06-10T12:50:55.237848Z",
-      "fileCount": 1,
-      "fileSize": 387410
-    },
-    {
-      "folderName": "MekanismGenerators-1.12.2-9.7.9.380.jar",
-      "fingerprint": 3606936721,
-      "fileDateHash": 138321925,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3606936721
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.5426028Z",
-      "lastWriteTimeUtc": "2021-06-09T21:35:46.5568025Z",
-      "queryTimestamp": "2021-06-10T12:50:55.237848Z",
-      "fileCount": 1,
-      "fileSize": 343776
-    },
-    {
-      "folderName": "ClassicCombat-1.0.1.jar",
-      "fingerprint": 1103857926,
-      "fileDateHash": 176866950,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1103857926
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:52.6606054Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:46.7117714Z",
-      "queryTimestamp": "2021-06-10T12:50:55.237848Z",
-      "fileCount": 1,
-      "fileSize": 56210
-    },
-    {
-      "folderName": "lazy-ae2-1.12.2-1.1.24.jar",
-      "fingerprint": 3194601268,
-      "fileDateHash": 120701073,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3194601268
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.4296045Z",
-      "lastWriteTimeUtc": "2021-06-09T21:37:26.0285207Z",
-      "queryTimestamp": "2021-06-10T12:50:55.237848Z",
-      "fileCount": 1,
-      "fileSize": 397415
-    },
-    {
-      "folderName": "MobGrindingUtils-0.3.13.jar",
-      "fingerprint": 2293965135,
-      "fileDateHash": 3194911415,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2293965135
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.5656053Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:45.6702234Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2388484Z",
-      "fileCount": 1,
-      "fileSize": 951922
-    },
-    {
-      "folderName": "openmodularturrets-1.12.2-3.1.11-372.jar",
-      "fingerprint": 1897425390,
-      "fileDateHash": 1431016750,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1897425390
-      ],
-      "status": 1,
-      "timestamp": "2021-06-10T12:50:53.7896037Z",
-      "lastWriteTimeUtc": "2021-06-09T21:36:21.5370365Z",
-      "queryTimestamp": "2021-06-10T12:50:55.2388484Z",
-      "fileCount": 1,
-      "fileSize": 966860
-    }
-  ],
+  "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-06-10T12:50:55.4448754Z",
-  "lastRefreshAttempt": "2021-06-10T07:50:57.9529789-05:00",
+  "lastPreviousMatchUpdate": "2021-06-13T16:14:21.9831835Z",
+  "lastRefreshAttempt": "2021-06-13T11:15:14.463655-05:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -2632,7 +1161,7 @@
       "dateInstalled": "2021-06-09T21:34:59.8926155Z",
       "dateUpdated": "2021-06-09T21:34:59.8976144Z",
       "dateLastUpdateAttempted": "2021-06-09T21:34:59.8976144Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2716,7 +1245,7 @@
       "dateInstalled": "2021-06-09T21:35:03.549154Z",
       "dateUpdated": "2021-06-09T21:35:03.5581527Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:03.5581527Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2807,7 +1336,7 @@
       "dateInstalled": "2021-06-09T21:35:04.1541564Z",
       "dateUpdated": "2021-06-09T21:35:04.1611547Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:04.1611547Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2885,7 +1414,7 @@
       "dateInstalled": "2021-06-09T21:35:04.5421536Z",
       "dateUpdated": "2021-06-09T21:35:04.6011549Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:04.6011549Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3049,7 +1578,7 @@
       "dateInstalled": "2021-06-09T21:35:07.7905309Z",
       "dateUpdated": "2021-06-09T21:35:07.7965315Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:07.7965315Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3135,7 +1664,7 @@
       "dateInstalled": "2021-06-09T21:35:09.0895316Z",
       "dateUpdated": "2021-06-09T21:35:09.1105373Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:09.1105373Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3150,39 +1679,21 @@
       "addonID": 251792,
       "gameInstanceID": "4fe446fb-85b4-427c-876d-fd437de4785f",
       "installedFile": {
-        "id": 3039393,
-        "displayName": "SimplyJetpacks2-1.12.2-2.2.16.1.jar",
-        "fileName": "SimplyJetpacks2-1.12.2-2.2.16.1.jar",
-        "fileDate": "2020-08-22T15:41:33.207Z",
-        "fileLength": 724723,
+        "id": 3294422,
+        "displayName": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+        "fileName": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+        "fileDate": "2021-05-01T00:36:59.933Z",
+        "fileLength": 728575,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3039/393/SimplyJetpacks2-1.12.2-2.2.16.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3294/422/SimplyJetpacks2-1.12.2-2.2.20.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 64578,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
             "addonId": 227443,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 231951,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 69163,
-            "type": 2,
+            "type": 1,
             "fileId": 0
           },
           {
@@ -3193,13 +1704,31 @@
           },
           {
             "id": 0,
+            "addonId": 300750,
+            "type": 1,
+            "fileId": 0
+          },
+          {
+            "id": 0,
             "addonId": 70631,
+            "type": 1,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 69163,
             "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 300750,
+            "addonId": 64578,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 231951,
             "type": 2,
             "fileId": 0
           }
@@ -3208,25 +1737,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1277046707,
+            "fingerprint": 3967732102,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "tonius",
-            "fingerprint": 1498374520,
+            "fingerprint": 2686363679,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 3801195331,
+            "fingerprint": 3043186715,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 3504088730,
+            "fingerprint": 2483213633,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3237,7 +1766,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1826470059,
+        "packageFingerprint": 3001974525,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -3251,12 +1780,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "SimplyJetpacks2-1.12.2-2.2.16.1.jar"
+        "FileNameOnDisk": "SimplyJetpacks2-1.12.2-2.2.20.0.jar"
       },
       "dateInstalled": "2021-06-09T21:35:09.8918015Z",
-      "dateUpdated": "2021-06-09T21:35:09.8988056Z",
-      "dateLastUpdateAttempted": "2021-06-09T21:35:09.8988056Z",
-      "status": 3,
+      "dateUpdated": "2021-06-11T17:26:45.4215488Z",
+      "dateLastUpdateAttempted": "2021-06-11T17:26:45.4215488Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3421,7 +1950,7 @@
       "dateInstalled": "2021-06-09T21:35:14.1906816Z",
       "dateUpdated": "2021-06-09T21:35:14.198682Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:14.198682Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3505,7 +2034,7 @@
       "dateInstalled": "2021-06-09T21:35:17.3080271Z",
       "dateUpdated": "2021-06-09T21:35:17.3370213Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:17.3370213Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3715,7 +2244,7 @@
       "dateInstalled": "2021-06-09T21:35:19.7162469Z",
       "dateUpdated": "2021-06-09T21:35:19.7252565Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:19.7252565Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3805,7 +2334,7 @@
       "dateInstalled": "2021-06-09T21:35:20.8063021Z",
       "dateUpdated": "2021-06-09T21:35:20.8112983Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:20.8112983Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3890,7 +2419,7 @@
       "dateInstalled": "2021-06-09T21:35:21.9932779Z",
       "dateUpdated": "2021-06-09T21:35:21.9992773Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:21.9992773Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4088,96 +2617,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 477964,
-      "gameInstanceID": "4fe446fb-85b4-427c-876d-fd437de4785f",
-      "installedFile": {
-        "id": 3295726,
-        "displayName": "GalacticraftCore-1.12.2-4.0.2.281.jar",
-        "fileName": "GalacticraftCore-1.12.2-4.0.2.281.jar",
-        "fileDate": "2021-05-02T12:01:30.183Z",
-        "fileLength": 10631329,
-        "releaseType": 3,
-        "fileStatus": 3,
-        "downloadUrl": "https://edge.forgecdn.net/files/3295/726/GalacticraftCore-1.12.2-4.0.2.281.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": false,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE.txt",
-            "fingerprint": 3950001183,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2386955708,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "micdoodle8",
-            "fingerprint": 614532490,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2017993775,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0",
-            "gameVersion": "",
-            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-            "gameVersionName": "Forge"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 9,
-        "renderCacheId": 2291103,
-        "projectId": 477964,
-        "packageFingerprintId": 654706320,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameVersionMappingId": 2904504,
-        "gameVersionId": 6756,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "GalacticraftCore-1.12.2-4.0.2.281.jar"
-      },
-      "dateInstalled": "2021-06-09T21:55:34.1430401Z",
-      "dateUpdated": "2021-06-09T21:55:34.1430401Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 237903,
       "gameInstanceID": "4fe446fb-85b4-427c-876d-fd437de4785f",
       "installedFile": {
@@ -4291,7 +2730,7 @@
       "dateInstalled": "2021-06-09T21:55:11.0926416Z",
       "dateUpdated": "2021-06-09T21:55:11.099646Z",
       "dateLastUpdateAttempted": "2021-06-09T21:55:11.099646Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4383,7 +2822,7 @@
       "dateInstalled": "2021-06-09T21:35:33.9669082Z",
       "dateUpdated": "2021-06-09T21:35:33.9762279Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:33.9762279Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4467,7 +2906,7 @@
       "dateInstalled": "2021-06-09T21:35:34.7767626Z",
       "dateUpdated": "2021-06-09T21:35:34.7847617Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:34.7847617Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4551,7 +2990,7 @@
       "dateInstalled": "2021-06-09T21:35:36.1094909Z",
       "dateUpdated": "2021-06-09T21:35:36.1174912Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:36.1174912Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4704,9 +3143,9 @@
         "isServerPack": false,
         "FileNameOnDisk": "Mekanism-1.12.2-9.7.9.380.jar"
       },
-      "dateInstalled": "2021-06-09T21:35:39.3276757Z",
-      "dateUpdated": "2021-06-09T21:35:39.3416771Z",
-      "dateLastUpdateAttempted": "2021-06-09T21:35:39.3416771Z",
+      "dateInstalled": "2021-06-13T16:15:27.0858975Z",
+      "dateUpdated": "2021-06-13T16:15:27.1028947Z",
+      "dateLastUpdateAttempted": "2021-06-13T16:15:27.1028947Z",
       "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -4778,7 +3217,7 @@
       "dateInstalled": "2021-06-09T21:35:39.7878703Z",
       "dateUpdated": "2021-06-09T21:35:39.8583665Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:39.8583665Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4793,34 +3232,34 @@
       "addonID": 242942,
       "gameInstanceID": "4fe446fb-85b4-427c-876d-fd437de4785f",
       "installedFile": {
-        "id": 3014827,
-        "displayName": "IC2Classic 1.12-1.5.5.1",
-        "fileName": "IC2Classic 1.12-1.5.5.1.jar",
-        "fileDate": "2020-07-26T02:53:18.34Z",
-        "fileLength": 6204617,
+        "id": 3093607,
+        "displayName": "IC2Classic 1.12-1.5.5.2.1",
+        "fileName": "IC2Classic 1.12-1.5.5.2.1.jar",
+        "fileDate": "2020-10-26T18:25:29.787Z",
+        "fileLength": 6216938,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3014/827/IC2Classic 1.12-1.5.5.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3093/607/IC2Classic 1.12-1.5.5.2.1.jar",
         "isAlternate": false,
-        "alternateFileId": 3014828,
+        "alternateFileId": 3093608,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3611084258,
+            "fingerprint": 3475383068,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "ic2",
-            "fingerprint": 2160438718,
+            "fingerprint": 2330547626,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 2836246273,
+            "fingerprint": 441092074,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -4831,7 +3270,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1885835764,
+        "packageFingerprint": 4213599622,
         "gameVersion": [
           "1.12.2"
         ],
@@ -4841,15 +3280,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionDateReleased": "2007-07-01T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "IC2Classic 1.12-1.5.5.1.jar"
+        "FileNameOnDisk": "IC2Classic 1.12-1.5.5.2.1.jar"
       },
       "dateInstalled": "2021-06-09T21:35:45.706787Z",
-      "dateUpdated": "2021-06-09T21:35:45.7427821Z",
-      "dateLastUpdateAttempted": "2021-06-09T21:35:45.7427821Z",
-      "status": 3,
+      "dateUpdated": "2021-06-11T17:27:04.0467362Z",
+      "dateLastUpdateAttempted": "2021-06-11T17:27:04.0467362Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4924,9 +3363,9 @@
         "isServerPack": false,
         "FileNameOnDisk": "MekanismGenerators-1.12.2-9.7.9.380.jar"
       },
-      "dateInstalled": "2021-06-09T21:35:46.557801Z",
-      "dateUpdated": "2021-06-09T21:35:46.5698036Z",
-      "dateLastUpdateAttempted": "2021-06-09T21:35:46.5698036Z",
+      "dateInstalled": "2021-06-13T16:14:17.9358179Z",
+      "dateUpdated": "2021-06-13T16:14:17.9493257Z",
+      "dateLastUpdateAttempted": "2021-06-13T16:14:17.9493257Z",
       "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -5002,9 +3441,9 @@
         "isServerPack": false,
         "FileNameOnDisk": "MekanismTools-1.12.2-9.7.9.380.jar"
       },
-      "dateInstalled": "2021-06-09T21:35:47.1576187Z",
-      "dateUpdated": "2021-06-09T21:35:47.1666166Z",
-      "dateLastUpdateAttempted": "2021-06-09T21:35:47.1666166Z",
+      "dateInstalled": "2021-06-13T16:15:12.3328747Z",
+      "dateUpdated": "2021-06-13T16:15:12.3428761Z",
+      "dateLastUpdateAttempted": "2021-06-13T16:15:12.3428761Z",
       "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -5077,7 +3516,7 @@
       "dateInstalled": "2021-06-09T21:35:49.8920267Z",
       "dateUpdated": "2021-06-09T21:35:49.8980278Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:49.8980278Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5155,7 +3594,7 @@
       "dateInstalled": "2021-06-09T21:35:50.744395Z",
       "dateUpdated": "2021-06-09T21:35:50.7518375Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:50.7518375Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5233,7 +3672,7 @@
       "dateInstalled": "2021-06-09T21:35:51.4006401Z",
       "dateUpdated": "2021-06-09T21:35:51.4156355Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:51.4156355Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5317,7 +3756,7 @@
       "dateInstalled": "2021-06-09T21:35:52.7767079Z",
       "dateUpdated": "2021-06-09T21:35:52.7847092Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:52.7847092Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5495,22 +3934,22 @@
       "addonID": 377201,
       "gameInstanceID": "4fe446fb-85b4-427c-876d-fd437de4785f",
       "installedFile": {
-        "id": 2947231,
-        "displayName": "TickCentral-2.6.jar",
-        "fileName": "TickCentral-2.6.jar",
-        "fileDate": "2020-05-03T12:03:56.927Z",
-        "fileLength": 52840,
+        "id": 3140670,
+        "displayName": "TickCentral-3.2.jar",
+        "fileName": "TickCentral-3.2.jar",
+        "fileDate": "2020-12-16T20:31:24.67Z",
+        "fileLength": 53554,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2947/231/TickCentral-2.6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3140/670/TickCentral-3.2.jar",
         "isAlternate": false,
-        "alternateFileId": 2947232,
+        "alternateFileId": 0,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1051175381,
+            "fingerprint": 2698655042,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -5522,14 +3961,13 @@
           },
           {
             "foldername": "com",
-            "fingerprint": 2337087778,
+            "fingerprint": 3580283270,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1794394770,
+        "packageFingerprint": 790351058,
         "gameVersion": [
-          "Forge",
           "1.12.2"
         ],
         "hasInstallScript": false,
@@ -5541,12 +3979,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "TickCentral-2.6.jar"
+        "FileNameOnDisk": "TickCentral-3.2.jar"
       },
       "dateInstalled": "2021-06-09T21:35:56.55723Z",
-      "dateUpdated": "2021-06-09T21:35:56.5642312Z",
-      "dateLastUpdateAttempted": "2021-06-09T21:35:56.5642312Z",
-      "status": 3,
+      "dateUpdated": "2021-06-13T02:52:35.9792289Z",
+      "dateLastUpdateAttempted": "2021-06-13T02:52:35.9792289Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5624,7 +4062,7 @@
       "dateInstalled": "2021-06-09T21:35:58.4234552Z",
       "dateUpdated": "2021-06-09T21:35:58.4304571Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:58.4304571Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5779,7 +4217,7 @@
       "dateInstalled": "2021-06-09T21:35:59.6670916Z",
       "dateUpdated": "2021-06-09T21:35:59.6770904Z",
       "dateLastUpdateAttempted": "2021-06-09T21:35:59.6770904Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5870,7 +4308,7 @@
       "dateInstalled": "2021-06-09T21:36:00.2745219Z",
       "dateUpdated": "2021-06-09T21:36:00.2815231Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:00.2815231Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5949,7 +4387,7 @@
       "dateInstalled": "2021-06-09T21:36:00.8595813Z",
       "dateUpdated": "2021-06-09T21:36:00.9275784Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:00.9275784Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6033,7 +4471,7 @@
       "dateInstalled": "2021-06-09T21:36:01.5527413Z",
       "dateUpdated": "2021-06-09T21:36:01.5617368Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:01.5617368Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6129,7 +4567,7 @@
       "dateInstalled": "2021-06-09T21:36:02.219709Z",
       "dateUpdated": "2021-06-09T21:36:02.2347061Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:02.2347061Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6215,7 +4653,7 @@
       "dateInstalled": "2021-06-09T21:36:03.0138502Z",
       "dateUpdated": "2021-06-09T21:36:03.0228483Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:03.0228483Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6388,7 +4826,7 @@
       "dateInstalled": "2021-06-09T21:36:08.8840848Z",
       "dateUpdated": "2021-06-09T21:36:08.9230757Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:08.9230757Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6477,7 +4915,7 @@
       "dateInstalled": "2021-06-09T21:36:11.0978059Z",
       "dateUpdated": "2021-06-09T21:36:11.1297973Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:11.1297973Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6554,7 +4992,7 @@
       "dateInstalled": "2021-06-09T21:36:11.6944276Z",
       "dateUpdated": "2021-06-09T21:36:11.7094205Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:11.7094205Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6656,7 +5094,7 @@
       "dateInstalled": "2021-06-09T21:36:13.5866071Z",
       "dateUpdated": "2021-06-09T21:36:13.597605Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:13.597605Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6740,7 +5178,7 @@
       "dateInstalled": "2021-06-09T21:36:17.7784741Z",
       "dateUpdated": "2021-06-09T21:36:17.7914724Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:17.7914724Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6926,7 +5364,7 @@
       "dateInstalled": "2021-06-09T21:36:19.8381194Z",
       "dateUpdated": "2021-06-09T21:36:19.8451255Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:19.8451255Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7071,7 +5509,7 @@
       "dateInstalled": "2021-06-09T21:36:20.7061587Z",
       "dateUpdated": "2021-06-09T21:36:20.7151601Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:20.7151601Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7299,7 +5737,7 @@
       "dateInstalled": "2021-06-09T21:55:31.9315956Z",
       "dateUpdated": "2021-06-09T21:55:31.9386069Z",
       "dateLastUpdateAttempted": "2021-06-09T21:55:31.9386069Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7377,7 +5815,7 @@
       "dateInstalled": "2021-06-09T21:36:23.0549171Z",
       "dateUpdated": "2021-06-09T21:36:23.0619171Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:23.0619171Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7466,7 +5904,7 @@
       "dateInstalled": "2021-06-09T21:36:23.984008Z",
       "dateUpdated": "2021-06-09T21:36:23.9930083Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:23.9930083Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7579,7 +6017,7 @@
       "dateInstalled": "2021-06-09T21:36:31.362745Z",
       "dateUpdated": "2021-06-09T21:36:31.3847464Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:31.3847464Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7674,7 +6112,7 @@
       "dateInstalled": "2021-06-09T21:36:34.1711021Z",
       "dateUpdated": "2021-06-09T21:36:34.1880933Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:34.1880933Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7764,7 +6202,7 @@
       "dateInstalled": "2021-06-09T21:36:37.0598435Z",
       "dateUpdated": "2021-06-09T21:36:37.0808359Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:37.0808359Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7849,7 +6287,7 @@
       "dateInstalled": "2021-06-09T21:36:39.4541681Z",
       "dateUpdated": "2021-06-09T21:36:39.4731561Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:39.4731561Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7933,7 +6371,7 @@
       "dateInstalled": "2021-06-09T21:36:43.2538566Z",
       "dateUpdated": "2021-06-09T21:36:43.2618547Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:43.2618547Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7999,7 +6437,7 @@
       "dateInstalled": "2021-06-09T21:36:43.8078673Z",
       "dateUpdated": "2021-06-09T21:36:43.8138706Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:43.8138706Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8014,14 +6452,14 @@
       "addonID": 239197,
       "gameInstanceID": "4fe446fb-85b4-427c-876d-fd437de4785f",
       "installedFile": {
-        "id": 3040575,
-        "displayName": "CraftTweaker2-1.12-4.1.20.586.jar",
-        "fileName": "CraftTweaker2-1.12-4.1.20.586.jar",
-        "fileDate": "2020-08-24T02:35:40.933Z",
-        "fileLength": 1438517,
+        "id": 3335030,
+        "displayName": "CraftTweaker2-1.12-4.1.20.647.jar",
+        "fileName": "CraftTweaker2-1.12-4.1.20.647.jar",
+        "fileDate": "2021-06-02T13:50:16.193Z",
+        "fileLength": 1541105,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3040/575/CraftTweaker2-1.12-4.1.20.586.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3335/30/CraftTweaker2-1.12-4.1.20.647.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -8029,25 +6467,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4144250242,
+            "fingerprint": 386203292,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "stanhebben",
-            "fingerprint": 1139667142,
+            "fingerprint": 939147020,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "crafttweaker",
-            "fingerprint": 2915316874,
+            "fingerprint": 4201977349,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 2249719731,
+            "fingerprint": 741708775,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -8059,12 +6497,18 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 3209782606,
+            "fingerprint": 1802506821,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3450295029,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 90565211,
+        "packageFingerprint": 3318662535,
         "gameVersion": [
           "1.12.2"
         ],
@@ -8077,11 +6521,11 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "CraftTweaker2-1.12-4.1.20.586.jar"
+        "FileNameOnDisk": "CraftTweaker2-1.12-4.1.20.647.jar"
       },
       "dateInstalled": "2021-06-09T21:36:44.8284058Z",
-      "dateUpdated": "2021-06-09T21:36:44.8374028Z",
-      "dateLastUpdateAttempted": "2021-06-09T21:36:44.8374028Z",
+      "dateUpdated": "2021-06-13T02:52:16.516051Z",
+      "dateLastUpdateAttempted": "2021-06-13T02:52:16.516051Z",
       "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -8153,7 +6597,7 @@
       "dateInstalled": "2021-06-09T21:36:45.6702234Z",
       "dateUpdated": "2021-06-09T21:36:45.6792266Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:45.6792266Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8230,7 +6674,7 @@
       "dateInstalled": "2021-06-09T21:36:46.1625505Z",
       "dateUpdated": "2021-06-09T21:36:46.1755506Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:46.1755506Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8308,7 +6752,7 @@
       "dateInstalled": "2021-06-09T21:36:47.1374719Z",
       "dateUpdated": "2021-06-09T21:36:47.1434744Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:47.1434744Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8381,7 +6825,7 @@
       "dateInstalled": "2021-06-09T21:36:47.730493Z",
       "dateUpdated": "2021-06-09T21:36:47.736495Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:47.736495Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8396,27 +6840,21 @@
       "addonID": 287683,
       "gameInstanceID": "4fe446fb-85b4-427c-876d-fd437de4785f",
       "installedFile": {
-        "id": 2962662,
-        "displayName": "conarm-1.12.2-1.2.5.9.jar",
-        "fileName": "conarm-1.12.2-1.2.5.9.jar",
-        "fileDate": "2020-05-22T00:04:36.997Z",
-        "fileLength": 894608,
+        "id": 3174535,
+        "displayName": "conarm-1.12.2-1.2.5.10.jar",
+        "fileName": "conarm-1.12.2-1.2.5.10.jar",
+        "fileDate": "2021-01-20T02:39:44.96Z",
+        "fileLength": 894824,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2962/662/conarm-1.12.2-1.2.5.9.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3174/535/conarm-1.12.2-1.2.5.10.jar",
         "isAlternate": false,
-        "alternateFileId": 2962663,
+        "alternateFileId": 3174536,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 237065,
+            "addonId": 239197,
             "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 74924,
-            "type": 3,
             "fileId": 0
           },
           {
@@ -8433,13 +6871,19 @@
           },
           {
             "id": 0,
-            "addonId": 250957,
+            "addonId": 74924,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 237065,
             "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 239197,
+            "addonId": 250957,
             "type": 2,
             "fileId": 0
           }
@@ -8448,13 +6892,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 309614727,
+            "fingerprint": 3420074694,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "CHANGELOG.md",
-            "fingerprint": 2137915898,
+            "fingerprint": 1649140428,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -8466,13 +6910,13 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 4288990102,
+            "fingerprint": 1250182774,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "c4",
-            "fingerprint": 103220850,
+            "fingerprint": 3038821030,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -8484,7 +6928,7 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1706556109,
+            "fingerprint": 543636038,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -8495,8 +6939,9 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1410691733,
+        "packageFingerprint": 193087825,
         "gameVersion": [
+          "Forge",
           "1.12.2"
         ],
         "hasInstallScript": false,
@@ -8508,12 +6953,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "conarm-1.12.2-1.2.5.9.jar"
+        "FileNameOnDisk": "conarm-1.12.2-1.2.5.10.jar"
       },
       "dateInstalled": "2021-06-09T21:36:48.5710586Z",
-      "dateUpdated": "2021-06-09T21:36:48.5760592Z",
-      "dateLastUpdateAttempted": "2021-06-09T21:36:48.5760592Z",
-      "status": 3,
+      "dateUpdated": "2021-06-11T17:27:15.0581413Z",
+      "dateLastUpdateAttempted": "2021-06-11T17:27:15.0581413Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8578,7 +7023,7 @@
       "dateInstalled": "2021-06-09T21:36:48.9834323Z",
       "dateUpdated": "2021-06-09T21:36:49.02242Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:49.02242Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8662,7 +7107,7 @@
       "dateInstalled": "2021-06-09T21:36:49.7469573Z",
       "dateUpdated": "2021-06-09T21:36:49.7589571Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:49.7589571Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8740,7 +7185,7 @@
       "dateInstalled": "2021-06-09T21:36:50.5598042Z",
       "dateUpdated": "2021-06-09T21:36:50.5678053Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:50.5678053Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8842,7 +7287,7 @@
       "dateInstalled": "2021-06-09T21:36:51.259929Z",
       "dateUpdated": "2021-06-09T21:36:51.2699269Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:51.2699269Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8937,7 +7382,7 @@
       "dateInstalled": "2021-06-09T21:36:51.8532768Z",
       "dateUpdated": "2021-06-09T21:36:51.8678042Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:51.8678042Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9004,7 +7449,7 @@
       "dateInstalled": "2021-06-09T21:36:52.2833072Z",
       "dateUpdated": "2021-06-09T21:36:52.3422986Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:52.3422986Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9094,7 +7539,7 @@
       "dateInstalled": "2021-06-09T21:36:52.7953548Z",
       "dateUpdated": "2021-06-09T21:36:52.8098613Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:52.8098613Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9184,7 +7629,7 @@
       "dateInstalled": "2021-06-09T21:36:57.278274Z",
       "dateUpdated": "2021-06-09T21:36:57.321266Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:57.321266Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9268,7 +7713,7 @@
       "dateInstalled": "2021-06-09T21:36:57.8703123Z",
       "dateUpdated": "2021-06-09T21:36:57.889302Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:57.889302Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9364,7 +7809,7 @@
       "dateInstalled": "2021-06-09T21:36:59.7562034Z",
       "dateUpdated": "2021-06-09T21:36:59.7642163Z",
       "dateLastUpdateAttempted": "2021-06-09T21:36:59.7642163Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9467,7 +7912,7 @@
       "dateInstalled": "2021-06-09T21:37:00.201236Z",
       "dateUpdated": "2021-06-09T21:37:00.2122492Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:00.2122492Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9653,7 +8098,7 @@
       "dateInstalled": "2021-06-09T21:37:01.4476607Z",
       "dateUpdated": "2021-06-09T21:37:01.4526602Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:01.4526602Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9731,7 +8176,7 @@
       "dateInstalled": "2021-06-09T21:37:02.410578Z",
       "dateUpdated": "2021-06-09T21:37:02.4265648Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:02.4265648Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9859,7 +8304,7 @@
       "dateInstalled": "2021-06-09T21:37:03.3630547Z",
       "dateUpdated": "2021-06-09T21:37:03.383055Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:03.383055Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9937,7 +8382,7 @@
       "dateInstalled": "2021-06-09T21:37:04.3172814Z",
       "dateUpdated": "2021-06-09T21:37:04.3322794Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:04.3322794Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10028,7 +8473,7 @@
       "dateInstalled": "2021-06-09T21:37:04.9718885Z",
       "dateUpdated": "2021-06-09T21:37:04.9778883Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:04.9778883Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10107,7 +8552,7 @@
       "dateInstalled": "2021-06-09T21:37:10.5104678Z",
       "dateUpdated": "2021-06-09T21:37:10.5384664Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:10.5384664Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10184,7 +8629,7 @@
       "dateInstalled": "2021-06-09T21:37:11.2493806Z",
       "dateUpdated": "2021-06-09T21:37:11.2593805Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:11.2593805Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10273,7 +8718,7 @@
       "dateInstalled": "2021-06-09T21:37:11.7250078Z",
       "dateUpdated": "2021-06-09T21:37:11.740005Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:11.740005Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10362,7 +8807,7 @@
       "dateInstalled": "2021-06-09T21:37:13.9414693Z",
       "dateUpdated": "2021-06-09T21:37:13.947468Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:13.947468Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10439,7 +8884,7 @@
       "dateInstalled": "2021-06-09T21:37:14.7473263Z",
       "dateUpdated": "2021-06-09T21:37:14.7593242Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:14.7593242Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10522,7 +8967,7 @@
       "dateInstalled": "2021-06-09T21:37:16.1953729Z",
       "dateUpdated": "2021-06-09T21:37:16.2123703Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:16.2123703Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10537,14 +8982,14 @@
       "addonID": 267193,
       "gameInstanceID": "4fe446fb-85b4-427c-876d-fd437de4785f",
       "installedFile": {
-        "id": 2979758,
-        "displayName": "Chunk Pregenerator V1.12-2.3",
-        "fileName": "Chunk Pregenerator V1.12-2.3.jar",
-        "fileDate": "2020-06-14T04:25:47.343Z",
-        "fileLength": 514799,
+        "id": 3214752,
+        "displayName": "Chunk Pregenerator-V1.12-2.5.0",
+        "fileName": "Chunk Pregenerator-V1.12-2.5.0.jar",
+        "fileDate": "2021-02-23T20:33:13.05Z",
+        "fileLength": 543859,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2979/758/Chunk Pregenerator V1.12-2.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3214/752/Chunk Pregenerator-V1.12-2.5.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -10552,21 +8997,19 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2029344873,
+            "fingerprint": 3838887051,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "pregenerator",
-            "fingerprint": 1958083731,
+            "fingerprint": 2779473434,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2660719319,
+        "packageFingerprint": 2561881248,
         "gameVersion": [
-          "1.12",
-          "1.12.1",
           "1.12.2"
         ],
         "hasInstallScript": false,
@@ -10575,15 +9018,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2007-07-01T05:00:00Z",
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Chunk Pregenerator V1.12-2.3.jar"
+        "FileNameOnDisk": "Chunk Pregenerator-V1.12-2.5.0.jar"
       },
       "dateInstalled": "2021-06-09T21:37:16.8800389Z",
-      "dateUpdated": "2021-06-09T21:37:16.8910387Z",
-      "dateLastUpdateAttempted": "2021-06-09T21:37:16.8910387Z",
-      "status": 3,
+      "dateUpdated": "2021-06-13T02:53:02.4951662Z",
+      "dateLastUpdateAttempted": "2021-06-13T02:53:02.4951662Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10654,7 +9097,7 @@
       "dateInstalled": "2021-06-09T21:37:24.6271892Z",
       "dateUpdated": "2021-06-09T21:37:24.6331878Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:24.6331878Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10731,7 +9174,7 @@
       "dateInstalled": "2021-06-09T21:37:25.3313262Z",
       "dateUpdated": "2021-06-09T21:37:25.338327Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:25.338327Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10899,7 +9342,7 @@
       "dateInstalled": "2021-06-09T21:37:26.4540107Z",
       "dateUpdated": "2021-06-09T21:37:26.4880021Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:26.4880021Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10966,7 +9409,7 @@
       "dateInstalled": "2021-06-09T21:37:26.8665121Z",
       "dateUpdated": "2021-06-09T21:37:26.9175134Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:26.9175134Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11116,7 +9559,7 @@
       "dateInstalled": "2021-06-09T21:37:28.1319317Z",
       "dateUpdated": "2021-06-09T21:37:28.138922Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:28.138922Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11282,7 +9725,7 @@
       "dateInstalled": "2021-06-09T21:37:32.4597587Z",
       "dateUpdated": "2021-06-09T21:37:32.4887554Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:32.4887554Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11348,7 +9791,7 @@
       "dateInstalled": "2021-06-09T21:37:32.9657708Z",
       "dateUpdated": "2021-06-09T21:37:32.9827708Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:32.9827708Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11431,7 +9874,7 @@
       "dateInstalled": "2021-06-09T21:37:36.6078748Z",
       "dateUpdated": "2021-06-09T21:37:36.6168763Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:36.6168763Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11515,7 +9958,7 @@
       "dateInstalled": "2021-06-09T21:37:39.3596495Z",
       "dateUpdated": "2021-06-09T21:37:39.3726459Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:39.3726459Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11593,7 +10036,7 @@
       "dateInstalled": "2021-06-09T21:37:40.033865Z",
       "dateUpdated": "2021-06-09T21:37:40.045858Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:40.045858Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11608,27 +10051,27 @@
       "addonID": 302906,
       "gameInstanceID": "4fe446fb-85b4-427c-876d-fd437de4785f",
       "installedFile": {
-        "id": 3033496,
-        "displayName": "IC2CExtras-1.4.7.jar",
-        "fileName": "IC2CExtras-1.4.7.jar",
-        "fileDate": "2020-08-15T21:24:40.79Z",
-        "fileLength": 2028438,
+        "id": 3087019,
+        "displayName": "IC2CExtras-1.4.8.3.jar",
+        "fileName": "IC2CExtras-1.4.8.3.jar",
+        "fileDate": "2020-10-19T23:43:33.163Z",
+        "fileLength": 2179400,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3033/496/IC2CExtras-1.4.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3087/19/IC2CExtras-1.4.8.3.jar",
         "isAlternate": false,
-        "alternateFileId": 3033498,
+        "alternateFileId": 3087021,
         "dependencies": [
-          {
-            "id": 0,
-            "addonId": 324021,
-            "type": 2,
-            "fileId": 0
-          },
           {
             "id": 0,
             "addonId": 242942,
             "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 324021,
+            "type": 2,
             "fileId": 0
           },
           {
@@ -11642,13 +10085,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 752863519,
+            "fingerprint": 1029890780,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "trinsdar",
-            "fingerprint": 577901370,
+            "fingerprint": 3867537922,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -11660,13 +10103,13 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 2838898579,
+            "fingerprint": 1120602295,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 8371865,
+            "fingerprint": 2876153838,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -11689,7 +10132,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 968816287,
+        "packageFingerprint": 1772768002,
         "gameVersion": [
           "1.12.2"
         ],
@@ -11702,12 +10145,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "IC2CExtras-1.4.7.jar"
+        "FileNameOnDisk": "IC2CExtras-1.4.8.3.jar"
       },
       "dateInstalled": "2021-06-09T21:37:42.0907908Z",
-      "dateUpdated": "2021-06-09T21:37:42.1122905Z",
-      "dateLastUpdateAttempted": "2021-06-09T21:37:42.1122905Z",
-      "status": 3,
+      "dateUpdated": "2021-06-11T17:27:06.2760735Z",
+      "dateLastUpdateAttempted": "2021-06-11T17:27:06.2760735Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11785,7 +10228,7 @@
       "dateInstalled": "2021-06-09T21:37:42.6553276Z",
       "dateUpdated": "2021-06-09T21:37:42.6663358Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:42.6663358Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11858,7 +10301,7 @@
       "dateInstalled": "2021-06-09T21:37:43.1764042Z",
       "dateUpdated": "2021-06-09T21:37:43.1993957Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:43.1993957Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11942,7 +10385,7 @@
       "dateInstalled": "2021-06-09T21:37:43.7424589Z",
       "dateUpdated": "2021-06-09T21:37:43.7494484Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:43.7494484Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12033,7 +10476,7 @@
       "dateInstalled": "2021-06-09T21:37:44.4060569Z",
       "dateUpdated": "2021-06-09T21:37:44.4120568Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:44.4120568Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12106,7 +10549,7 @@
       "dateInstalled": "2021-06-09T21:37:45.0072617Z",
       "dateUpdated": "2021-06-09T21:37:45.0222653Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:45.0222653Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12184,7 +10627,7 @@
       "dateInstalled": "2021-06-09T21:37:45.6020389Z",
       "dateUpdated": "2021-06-09T21:37:45.6260378Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:45.6260378Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12274,7 +10717,7 @@
       "dateInstalled": "2021-06-09T21:37:46.1767592Z",
       "dateUpdated": "2021-06-09T21:37:46.2317512Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:46.2317512Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12345,7 +10788,7 @@
       "dateInstalled": "2021-06-09T21:37:46.7117714Z",
       "dateUpdated": "2021-06-09T21:37:46.7177719Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:46.7177719Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12499,7 +10942,7 @@
       "dateInstalled": "2021-06-09T21:37:50.9157169Z",
       "dateUpdated": "2021-06-09T21:37:50.936703Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:50.936703Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12585,7 +11028,7 @@
       "dateInstalled": "2021-06-09T21:37:51.7032871Z",
       "dateUpdated": "2021-06-09T21:37:51.711289Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:51.711289Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12650,7 +11093,7 @@
       "dateInstalled": "2021-06-09T21:37:52.084644Z",
       "dateUpdated": "2021-06-09T21:37:52.1426256Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:52.1426256Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12736,104 +11179,7 @@
       "dateInstalled": "2021-06-09T21:37:52.6607463Z",
       "dateUpdated": "2021-06-09T21:37:52.7087241Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:52.7087241Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 359766,
-      "gameInstanceID": "4fe446fb-85b4-427c-876d-fd437de4785f",
-      "installedFile": {
-        "id": 3170381,
-        "displayName": "GalacticTweaks-1.6.0.jar",
-        "fileName": "GalacticTweaks-1.6.0.jar",
-        "fileDate": "2021-01-16T11:43:37.96Z",
-        "fileLength": 240227,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3170/381/GalacticTweaks-1.6.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 238770,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 261990,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 241940,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 241291,
-            "type": 2,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1978947940,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2080786885,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3272667432,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 542129001,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1541419447,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "GalacticTweaks-1.6.0.jar"
-      },
-      "dateInstalled": "2021-06-09T21:37:53.2844995Z",
-      "dateUpdated": "2021-06-09T21:37:53.3034879Z",
-      "dateLastUpdateAttempted": "2021-06-09T21:37:53.3034879Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12904,7 +11250,7 @@
       "dateInstalled": "2021-06-09T21:37:53.6950138Z",
       "dateUpdated": "2021-06-09T21:37:53.7880097Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:53.7880097Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12975,7 +11321,7 @@
       "dateInstalled": "2021-06-09T21:37:54.5811117Z",
       "dateUpdated": "2021-06-09T21:37:54.5911123Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:54.5911123Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -13113,7 +11459,7 @@
       "dateInstalled": "2021-06-09T21:37:57.6239026Z",
       "dateUpdated": "2021-06-09T21:37:57.6318992Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:57.6318992Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -13215,7 +11561,7 @@
       "dateInstalled": "2021-06-09T21:37:58.0794117Z",
       "dateUpdated": "2021-06-09T21:37:58.0884082Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:58.0884082Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -13294,7 +11640,7 @@
       "dateInstalled": "2021-06-09T21:37:59.5608451Z",
       "dateUpdated": "2021-06-09T21:37:59.5808527Z",
       "dateLastUpdateAttempted": "2021-06-09T21:37:59.5808527Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -13384,7 +11730,7 @@
       "dateInstalled": "2021-06-09T22:03:52.8261984Z",
       "dateUpdated": "2021-06-09T22:03:52.8331976Z",
       "dateLastUpdateAttempted": "2021-06-09T22:03:52.8331976Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -13474,7 +11820,7 @@
       "dateInstalled": "2021-06-09T21:38:00.5056547Z",
       "dateUpdated": "2021-06-09T21:38:00.5156586Z",
       "dateLastUpdateAttempted": "2021-06-09T21:38:00.5156586Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -13581,7 +11927,7 @@
       "dateInstalled": "2021-06-09T21:38:01.7315922Z",
       "dateUpdated": "2021-06-09T21:38:01.7435955Z",
       "dateLastUpdateAttempted": "2021-06-09T21:38:01.7435955Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -13672,7 +12018,7 @@
       "dateInstalled": "2021-06-09T21:38:07.8303239Z",
       "dateUpdated": "2021-06-09T21:38:07.8473214Z",
       "dateLastUpdateAttempted": "2021-06-09T21:38:07.8473214Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -13817,7 +12163,7 @@
       "dateInstalled": "2021-06-09T21:38:08.8741959Z",
       "dateUpdated": "2021-06-09T21:38:08.9681943Z",
       "dateLastUpdateAttempted": "2021-06-09T21:38:08.9681943Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
